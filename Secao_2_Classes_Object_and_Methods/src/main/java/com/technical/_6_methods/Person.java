@@ -15,7 +15,7 @@ package com.technical._6_methods;
  */
 public class Person {
 
-    private String name = "Christopher";
+    private final String name = "Christopher";
      // **public**: Acessível de qualquer lugar.
     public void sayHello() {
         System.out.println("Hello, I am public!");
