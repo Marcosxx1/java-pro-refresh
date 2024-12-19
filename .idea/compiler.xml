@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="secao_2_classes_object_and_methods" />
         <module name="course" />
+        <module name="secao_2_classes_object_and_methods" />
+        <module name="course (2)" />
         <module name="course (1)" />
       </profile>
     </annotationProcessing>

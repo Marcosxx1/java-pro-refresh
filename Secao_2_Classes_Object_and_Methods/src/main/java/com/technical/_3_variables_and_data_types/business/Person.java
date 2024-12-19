@@ -1,6 +1,6 @@
-package com.technical.variables_and_data_types.business;
+package com.technical._3_variables_and_data_types.business;
 
-import com.technical.variables_and_data_types.NewsAgency;
+import com.technical._3_variables_and_data_types.NewsAgency;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.time.LocalDate;
