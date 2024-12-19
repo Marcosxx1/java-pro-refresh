@@ -1,4 +1,4 @@
-package com.technical.object_orientation.model;
+package com.technical._1_object_orientation.model;
 
 import java.time.LocalDate;
 

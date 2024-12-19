@@ -1,7 +1,7 @@
-package com.technical.object_orientation;
+package com.technical._1_object_orientation;
 
-import com.technical.object_orientation.model.Dog;
-import com.technical.object_orientation.model.Person;
+import com.technical._1_object_orientation.model.Dog;
+import com.technical._1_object_orientation.model.Person;
 
 import java.time.LocalDate;
 

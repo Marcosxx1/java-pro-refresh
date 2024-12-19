@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="secao_2_classes_object_and_methods" />
         <module name="course" />
+        <module name="course (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
